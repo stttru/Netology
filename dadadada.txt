@@ -7,20 +7,4 @@
 cd C:\Netology
 jupyter notebok
 
-\\\\\\\\\\\\\\
-Команды GitBash для синхронизации с учеткой:
-===========
-cd c:/Netology/test #переход к папке
-git config --global user.email "stttru@gmail.com" #синхронизация с учеткой git
-git config --global user.name "stttru" #синхронизация с учеткой git
-git status #статус синхронизации папки
-
-git add test/123.txt #добавить новый файл
-
-
-git commit -m "my first commit" #добавить комментарий
-
-===== Работа с репозиториями =====
-git remote add origin https://github.com/stttru/test123.git #привязать облачный репозиторий к локальному
-git remote -v
-git push origin master #синхронизировать локальную папку с облачной
+УУАЛЕНО ВСЕ
